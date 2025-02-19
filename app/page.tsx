@@ -1,4 +1,3 @@
-import { BlogPosts } from "app/components/posts";
 import { Projects } from "./components/projects";
 import EducationExperience from "./components/education-experience";
 

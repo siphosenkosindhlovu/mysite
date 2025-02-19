@@ -1,6 +1,3 @@
-import path from "path";
-import { getMDXData } from "../blog/utils";
-
 type Project = {
   slug: string;
   date: string;

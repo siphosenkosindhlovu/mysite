@@ -1,6 +1,3 @@
-import Link from "next/link";
-import { formatDate, getBlogPosts } from "app/blog/utils";
-import Image from "next/image";
 import { ExternalLink } from "lucide-react";
 import { Badge } from "@/components/ui/badge";
 import { getProjects } from "../projects/utils";
