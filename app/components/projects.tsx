@@ -29,7 +29,7 @@ export function Projects() {
             <p className="text-neutral-800 dark:text-neutral-300 tracking-tight mb-4">
               {post.project.description}
             </p>
-            <div className="flex flex-wrap gap-2 mb-2">
+            <div className="flex flex-wrap items-start gap-2 mb-2">
               {post.project.technologies.map((tech) => (
                 <Badge key={tech} variant={"outline"}>
                   {tech}
