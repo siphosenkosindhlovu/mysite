@@ -8,12 +8,10 @@ export default function Page() {
         Hi, I'm Siphosenkosi Ndhlovu
       </h1>
       <p className="mb-4">
-        {` Enthusiastic and detail-oriented web developer with 5 years of freelance experience including 3 years working with React and NextJS. Proficient in building responsive and user-friendly web applications using modern technologies. Passionate about creating elegant and efficient solutions
- that enhance user experiences. `}
+        Full-stack developer with 7+ years building web applications and multiple shipped client projects for international clients. I specialise in React, Next.js, and TypeScript with backend experience across Node.js, Python, and AWS. I also hold domain expertise in structural engineering, where I'm building AI-powered analysis and design tools.
       </p>
       <p className="mb-4">
-        Currently seeking an opportunity to contribute my skills and grow as
-        part of a collaborative development team.
+        Seeking a full-time remote development role.
       </p>
       <p>
         You can find my contact details in{" "}

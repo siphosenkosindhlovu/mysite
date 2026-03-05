@@ -17,36 +17,36 @@ type ExperienceItem = {
 
 const educationData: EducationItem[] = [
   {
-    degree: "Bachelor of Science in Civil Engineering",
+    degree: "Bachelor of Science (Honours), Civil Engineering",
     institution: "University of Zimbabwe",
-    year: "2018-2025",
+    year: "Expected Graduation: 2026",
   },
 ];
 
 const experienceData: ExperienceItem[] = [
   {
-    position: "Contract Front End Developer",
-    company: "Vendmae",
-    duration: "2023 - Present",
+    position: "Freelance Full Stack Developer (Front End Focus)",
+    company: "Complete3d.co.uk",
+    duration: "February 2018 - Present",
     description:
-      "Lead developer for the front end experience on Vendmae, focusing on performance optimization and user experience. Occasionally work on the backend to improve front end intehration.",
-    skills: ["React", "TypeScript", "Next.js", "ChakraUI"],
+      "Built a fully functional e-commerce website using React, integrating Stripe payments and Swell Ecommerce. Implemented product filtering, search functionality, user authentication, and blog functionality with a headless CMS. Optimized performance and improved load times.",
+    skills: ["Next.js", "GraphQL", "Swell Ecommerce", "Stripe"],
   },
   {
-    position: "Freelance Web Developer",
-    company: "Various Companies",
-    duration: "2019 - Present",
+    position: "Full Stack Developer",
+    company: "Vendmae (Private Beta, launching 2026)",
+    duration: "2023 - Present",
     description:
-      "Developed and maintained webites, WordPress themes and full-stack applications, collaborating with cross-functional teams to deliver robust solutions.",
-    skills: [
-      "JavaScript",
-      "Node.js",
-      "Express",
-      "NextJS",
-      "React",
-      "SQL",
-      "WordPress",
-    ],
+      "Modified UI library to build accessible custom components. Led migration to latest Next.js with App router. Utilized AWS Services (Lambda, AppSync, Cognito, DynamoDB) through AWS Amplify. Interfaced with third-party APIs (Stripe, Mailchimp). Later migrated to Supabase with Next.js RSC and API routes.",
+    skills: ["NextJS", "TypeScript", "AWS", "Supabase", "PostgreSQL", "Stripe"],
+  },
+  {
+    position: "Full Stack Developer",
+    company: "Structural Design AI Web Application",
+    duration: "In Development",
+    description:
+      "Developing a next-generation engineering tool combining structural analysis with AI assistance. Integrated PyNite for finite element analysis. Built AI copilot for calculations and LaTeX documentation. Designed React front-end with Redux and Dexie, backed by Python FastAPI service.",
+    skills: ["Next.js", "TypeScript", "Python", "FastAPI", "PyNite", "Vercel AI SDK", "Redux"],
   },
 ];
 
