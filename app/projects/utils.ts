@@ -53,7 +53,7 @@ export function getProjects(): Project[] {
         ],
         cost: "N/A",
         duration: "Ongoing",
-        link: "https://www.vendmae.com",
+        link: "https://latest.vendmae.com",
       },
     },
     {
